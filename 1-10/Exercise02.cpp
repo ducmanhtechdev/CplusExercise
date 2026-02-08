@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{ 
+    // exercise02
+    int a;
+    cin >> a;
+
+    cout << a - 2;
+
+    return 0;
+}
+// testcase10/10
